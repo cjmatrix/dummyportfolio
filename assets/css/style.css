@@ -284,6 +284,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 .single-about-img img {
     max-width: 500px;
     height: 468px;
+    object-fit: cover;
+    object-position: right center;
 }
 .about-list-icon{
     display: flex;
