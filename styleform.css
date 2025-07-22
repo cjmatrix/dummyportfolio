@@ -1,0 +1,24 @@
+.invalid{
+    background-color: red;
+    text-align: center  ;
+    color: aliceblue;
+    font-size: 2rem;
+    height: 4.5rem;
+    display: none;
+    line-height: 4.5rem;
+}
+
+.validsent{
+    background-color: rgb(62, 129, 0);
+    text-align: center  ;
+    color: aliceblue;
+    font-size: 2rem;
+    height: 4rem;
+    display: none;
+}   
+
+.form-control.comment.active::placeholder{
+    color: red;
+    
+}
+
